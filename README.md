@@ -11,6 +11,7 @@ $ git clone https://github.com/otsdc/SMS-Voice-RubySDK.git
 
 ## Example
 
+```
 require_relative "../resources/http/MessageResourceImpl"
 
 begin
